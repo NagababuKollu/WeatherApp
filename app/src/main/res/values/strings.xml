@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="humidity_unit">percentage %</string>
+    <string name="humidity_temperature_in_percentage">Humidity %1$s percentage</string>
+    <string name="temperature_value_in_celsius">%1$s°</string>
+    <string name="temperature_max_value_in_celsius">Max: %1$s°</string>
+    <string name="temperature_min_value_in_celsius">Min: %1$s°</string>
+
+    <string name="icon_image_url">https:%1$s</string>
+    <string name="today">Today\'s Hourly Forecast</string>
+    <string name="forecast">Forecast</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="search_hint">Search for a city</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="retry">Retry</string>
+</resources>
